@@ -1,0 +1,86 @@
+{
+  "users": {
+    "32": {
+      "id": "32",
+      "username": "money",
+      "first_name": "Xikmatillayev",
+      "step": null,
+      "temp_data": {},
+      "created_at": "2026-10-06T11:43:54.195Z"
+    },
+    "82": {
+      "id": "82",
+      "username": "paxtagram1",
+      "first_name": "paxtagram",
+      "step": null,
+      "temp_data": {},
+      "created_at": "2026-10-06T11:43:54.189Z"
+    },
+    "100": {
+      "id": "100",
+      "username": "shade",
+      "first_name": "Muhammadiso • 16:48",
+      "step": null,
+      "temp_data": {},
+      "created_at": "2026-10-06T11:43:54.181Z"
+    },
+    "250": {
+      "id": "250",
+      "username": "immortal",
+      "first_name": "immortal",
+      "step": null,
+      "temp_data": {},
+      "created_at": "2026-10-06T11:43:54.192Z"
+    }
+  },
+  "verified": {
+    "insider": {
+      "id": "insider",
+      "target_type": "channel",
+      "username": "insider",
+      "title": "Insider Rasmiy Kanal",
+      "category": "Media / Yangiliklar",
+      "badge_name": "Insider Verified",
+      "verified_at": "2026-10-06T11:43:53.671Z",
+      "expires_at": "2027-10-06T00:00:00.000Z",
+      "status": "active",
+      "notes": "Bosh tashkilot rasmiy kanali"
+    },
+    "shade": {
+      "id": "shade",
+      "target_type": "user",
+      "username": "shade",
+      "title": "Muhammadiso",
+      "category": "Asoschi / Developer",
+      "badge_name": "Insider Verified",
+      "verified_at": "2026-10-06T11:43:53.672Z",
+      "expires_at": "2027-10-06T00:00:00.000Z",
+      "status": "revoked",
+      "notes": "Shikoyat bo'yicha olib tashlandi: CMP-7256"
+    }
+  },
+  "applications": {},
+  "complaints": {
+    "CMP-7256": {
+      "id": "CMP-7256",
+      "reporter_id": "100",
+      "reporter_username": "shade",
+      "target_username": "shade",
+      "reason": "meni aldadi giftga",
+      "evidence": "yoq",
+      "status": "resolved",
+      "created_at": "2026-10-06T11:47:49.370Z",
+      "admin_notes": "Nishon olib tashlandi",
+      "resolved_at": "2026-10-06T11:47:56.528Z"
+    }
+  },
+  "settings": {
+    "prices": {
+      "profile_1m": 300,
+      "profile_1y": 1500,
+      "channel_1m": 600,
+      "channel_1y": 3000
+    },
+    "rules": "1. Profil yoki kanal haqiqiy bo'lishi va spam tarqatmasligi shart.\n2. Firibgarlik yoki qoidabuzarlik aniqlanganda nishon darhol bekor qilinadi.\n3. Har bir arizachi admin ko'rigidan o'tadi."
+  }
+}
